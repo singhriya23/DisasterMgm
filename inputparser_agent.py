@@ -53,7 +53,7 @@ def parse_disaster_prompt(prompt: str) -> Tuple[Optional[str], Optional[str], Op
         year = int(year_match.group(1))
     
     return (disaster_type, country, year)
-
+'''
 # Example Usage
 prompts = [
     "Create a report on flood in Brazil",
@@ -67,4 +67,6 @@ for prompt in prompts:
     print(f"Prompt: '{prompt}'")
     print(f"→ Disaster: {disaster or 'N/A'}")
     print(f"→ Country: {country or 'N/A'}")
-    print(f"→ Year: {year or 'N/A'}\n")
+    print(f"→ Year: {year or 'N/A'}\n")'
+    ''
+    '''
