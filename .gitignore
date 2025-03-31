@@ -1,0 +1,50 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Log and temporary files
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Docker-related files
+.docker/
+
+# Build-related files
+build/
+dist/
+*.egg-info/
+
+# Test-related files
+.tox/
+.coverage
+.nox/
+.hypothesis/
+
+# Environment variables and secret keys
+.env
+.env.*
+
+# Compiled assets
+*.min.js
+*.min.css
