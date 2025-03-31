@@ -48,3 +48,5 @@ dist/
 # Compiled assets
 *.min.js
 *.min.css
+*.html
+*.csv
