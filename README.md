@@ -4,6 +4,14 @@
 
 ![image](https://github.com/user-attachments/assets/8c9d1cd4-4aa0-40d0-b7cf-d4474082b0a9)
 
+forecasting.py - Uses Data from Snowflake for Forecasting.
+
+visualize.py - visualizes data based on snowflake data.
+
+main.py - backend code
+
+frontend.py - Frontend code
+
 **Contributions**
 
 Kaushik- Built the snowflake agent and the forecasting agent, where we have taken the disaster data from different sources and stored in snowflake and using the data for various purposes, also did the architecture diagram and documentation.
