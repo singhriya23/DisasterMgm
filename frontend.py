@@ -5,7 +5,8 @@ import os
 import time
 
 # Configuration
-FASTAPI_URL = "http://localhost:8000"  # Update this if your API is hosted elsewhere
+#FASTAPI_URL = "http://localhost:8000"
+FASTAPI_URL = "https://agentic-backend-343736309329.us-central1.run.app"  # Update this if your API is hosted elsewhere
 
 def main():
     st.set_page_config(
