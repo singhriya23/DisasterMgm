@@ -1,5 +1,9 @@
 # DisasterMgm
 
+**Frontend - https://disastermanagement-35pfyv3gj7quxtyg3tdld3.streamlit.app/**
+
+**Backend - https://agent-backend-service-343736309329.us-central1.run.app**
+
 **Architecture Diagram**
 
 ![image](https://github.com/user-attachments/assets/8c9d1cd4-4aa0-40d0-b7cf-d4474082b0a9)
